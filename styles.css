@@ -1,0 +1,19 @@
+h1 {
+    font-family: sans-serif;
+    color:darkslategray;
+    text-align: center;
+}
+h2 {
+    font-family: sans-serif;
+    color: darkolivegreen;
+    text-align: center;
+}
+li {
+    font-size: 24px;
+    font-family: sans-serif;
+    font-style: normal;
+    color: darkgreen
+}
+a {
+    color: brown;
+}
